@@ -1,4 +1,5 @@
 # Messenger App
+![gif](messenger.gif)
 
 This repository contains a simple messenger application consisting of two Python files: `server.py` and `telegram.py`. This messenger app allows users to sign up, sign in, send messages to other users, block/unblock users, and view message history. Below, you'll find a brief overview of each file's functionality and how to use the messenger app.
 
